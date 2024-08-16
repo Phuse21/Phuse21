@@ -2,8 +2,9 @@
 <h4 align="center">A Passionate Full-Stack Web Developer Crafting Seamless Digital Experiences</h4>
 
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3RscWtkbmtvcDR4Zm9lZDMxcXd4MDVpeXp3ZXh2N3A4d2k5eW04MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Focused on Programming GIF" width="500" height="300"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3RscWtkbmtvcDR4Zm9lZDMxcXd4MDVpeXp3ZXh2N3A4d2k5eW04MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Focused on Programming GIF" style="width: 100%; max-width: 500px; height: auto;"/>
 </p>
+
 
 
 
