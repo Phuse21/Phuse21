@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **contributing to open source projects**
 
-- 🌱 I’m currently learning **Reactjs and Nextjs**
+- 🌱 I’m currently learning **React and Nextjs**
 
 - 📫 How to reach me **phusedallas@gmail.com**
 
