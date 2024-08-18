@@ -5,6 +5,8 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3RscWtkbmtvcDR4Zm9lZDMxcXd4MDVpeXp3ZXh2N3A4d2k5eW04MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Focused on Programming GIF" style="width: 100%; max-width: 500px; height: auto;"/>
 </p>
 
+<p align="center" style="margin-bottom: 20px;"><i>"Rest in the end, not in the middle."<br>- Kobe Bryant</i></p>
+
 
 
 
