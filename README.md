@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahfuz</h1>
-<h4 align="center">A Passionate Full-Stack Web Developer Crafting Seamless Digital Experiences</h4>
+<h4 align="center">A Passionate Full-Stack Web Developer/Sharepoint Developer Crafting Seamless Digital Experiences</h4>
 
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3RscWtkbmtvcDR4Zm9lZDMxcXd4MDVpeXp3ZXh2N3A4d2k5eW04MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Focused on Programming GIF" style="width: 100%; max-width: 500px; height: auto;"/>
@@ -12,11 +12,11 @@
 
 - 👯 I’m looking to collaborate on **laravel projects**
   
-- 💬 Talk to me about **Tall stack**
+- 💬 Talk to me about **Tall stack, Sharepoint, Anything about Web Development**
 
 - 🤝 I’m looking for help with **contributing to open source projects**
 
-- 🌱 I’m currently learning **React and Nextjs**
+- 🌱 I’m currently learning **Dev Ops**
 
 - 📫 How to reach me **phusedallas@gmail.com**
 
